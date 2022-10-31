@@ -1,8 +1,8 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=10000&color=E6C001&center=true&width=600&height=100&lines=Anthony+Briot" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=50&pause=10000&color=2DA2B6&center=true&width=600&height=100&lines=Silvio+Brancati" alt="Silvio Brancati" /></a></h1>
 
-### Salut toi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234225_iOS.png" align="right" height="275" /></a>
+<a href="#"><img src="https://github.com/Silvio-Br/Silvio-Br/blob/4138523ae2725b3893df140f5f0c0af1c1309eb5/images/silvio.png" align="right" height="275" /></a>
 
 </br>
 
