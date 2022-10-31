@@ -47,11 +47,9 @@ Diplomé d'une Licence en informatique et d'un DUT Informatique (IUT Nancy-Charl
 </p>
 </br>
 
-**Clique pour afficher**
-
 <br/>
 <details>
-   <a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234053_iOS.png" align="right" height="220" /></a>
+   <a href="#"><img src="https://github.com/Silvio-Br/Silvio-Br/blob/bda111feb5ed28e3eab24ec9e637376a57a02006/images/9055c9be4fb4059eab692745b60bad91-sticker.png" align="right" height="220" /></a>
   <summary><b>✨ Statistiques de profil </b></summary>
    <br/>
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Silvio-Br&show_icons=true&theme=dark&count_private=true&custom_title=Statistiques%20GitHub%20de%20Silvio%20Brancati&bg_color=00000000&hide_border=true" />
@@ -59,12 +57,12 @@ Diplomé d'une Licence en informatique et d'un DUT Informatique (IUT Nancy-Charl
 <details>
   <summary><b><img src = "https://img.icons8.com/emoji/344/chart-increasing-emoji.png" width="20px"> Activités récentes </b></summary>
   <br/>
-   <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Graphique%20des%20contributions&theme=nightowl&bg_color=00000000&hide_border=true&title_color=e6c001&color=e6c001" /></a>
+   <a href="https://github.com/Silvio-Br/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Silvio-Br&custom_title=Graphique%20des%20contributions&theme=radical&bg_color=00000000&hide_border=true&title_color=9080F2&color=9080F2" /></a>
   <br/>
 </details>
 </br>
 
-##  <img src="https://img.icons8.com/emoji/344/open-mailbox-with-raised-flag.png" width="30px"> Comment me contacter:
+##  <img src="https://img.icons8.com/emoji/344/open-mailbox-with-raised-flag.png" width="30px"> Me contacter
 
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/silvio-brancati-82970219b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
