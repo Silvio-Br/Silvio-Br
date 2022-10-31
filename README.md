@@ -6,15 +6,16 @@
 
 </br>
 
-## <img src="https://img.icons8.com/emoji/344/memo-emoji.png" width="30px">  Qui suis-je :
+## <img src="https://img.icons8.com/emoji/344/memo-emoji.png" width="30px">  Qui suis-je ?
 
-Etudiant en informatique à la Faculté des Sciences et Technologies de Nancy. <br/>
-Diplomé d'une licence en informatique, actuellement en première année de Master informatique. Développeur web full stack.
+Étudiant en informatique à la Faculté des Sciences et Technologies de Nancy. <br/>
+Diplomé d'une Licence en informatique et d'un DUT Informatique (IUT Nancy-Charlemagne), actuellement en première année de Master informatique. 
+**Développeur web full stack**.
 
-- **Projet en cours** : Développement back office full stack pour [Proprio Access](https://proprio-access.fr/) (VueJS, Tailwind, Laravel)
-- **Centres d'intérêts** : Football, Formule 1, Nouvelles Technologies
-- **Langages favoris** : JavaScript, HTML, CSS, PHP
-- **Développeurs pas trop mauvais** : [Silvio](https://github.com/Silvio-Br), [Remi](https://github.com/RemRem57)
+- **Projet en cours** : Développement back office full stack pour [Proprio Access](https://proprio-access.fr/)
+- **Centres d'intérêts** : Formule 1, Football, Gymnastique
+- **Langages favoris** : PHP, JavaScript, Java
+- **Collaborateurs** : [Anthony](https://github.com/Antho57), [Remi](https://github.com/RemRem57), [Nicolas](https://github.com/Nicolas-Frache)
 
 </br>
 
@@ -41,15 +42,10 @@ Diplomé d'une licence en informatique, actuellement en première année de Mast
    <a href="https://www.atlassian.com/fr/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a>
    <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
    <a href="https://www.mysql.com/fr/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/> </a>
+   <a href="https://www.terraform.io/" target="_blank"> <img src="https://sue.eu/wp-content/uploads/sites/6/2022/06/terraform-hashicorp-logo-920x920-sue-v0.png" alt="Terraform" width="40" height="40"/> </a>
+   <a href="https://aws.amazon.com/fr/" target="_blank"> <img src="https://ezerus.com.au/wp-content/uploads/2019/05/aws-logo-aws-new-logo-album-on-imgur-ideas.png" alt="AWS" width="40" height="40"/> </a>
 </p>
 </br>
-
-## <img src="https://img.icons8.com/emoji/344/bar-chart-emoji.png" width="30px"> Mes stats GitHub
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antho57&langs_count=10&show_icons=true&locale=fr&layout=compact&theme=shades-of-purple&count_private=true&custom_title=Langages%20les%20plus%20utilisés&bg_color=00000000&hide_border=true" alt="Gift's language" height="150px"  width="400px"/>
-</div>
-<br/>
 
 **Clique pour afficher**
 
@@ -58,7 +54,7 @@ Diplomé d'une licence en informatique, actuellement en première année de Mast
    <a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234053_iOS.png" align="right" height="220" /></a>
   <summary><b>✨ Statistiques de profil </b></summary>
    <br/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true&theme=shades-of-purple&count_private=true&custom_title=Statistiques%20GitHub%20d'Anthony%20Briot&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Silvio-Br&show_icons=true&theme=dark&count_private=true&custom_title=Statistiques%20GitHub%20de%20Silvio%20Brancati&bg_color=00000000&hide_border=true" />
 </details>
 <details>
   <summary><b><img src = "https://img.icons8.com/emoji/344/chart-increasing-emoji.png" width="20px"> Activités récentes </b></summary>
@@ -71,29 +67,16 @@ Diplomé d'une licence en informatique, actuellement en première année de Mast
 ##  <img src="https://img.icons8.com/emoji/344/open-mailbox-with-raised-flag.png" width="30px"> Comment me contacter:
 
 <p>
-  <a target="_blank"href="https://www.linkedin.com/in/anthony-briot-7521a3218/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/Anthony57b"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:anthony.briot1809@orange.fr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/silvio-brancati-82970219b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Silvio__Br"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ssilvio@me.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- GitHub section: END -->
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Antho57&label=Vues%20du%20profil&color=c691e9&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Silvio-Br&label=Vues%20du%20profil&color=c691e9&style=flat" alt="isrealodejobi" />
 </p>
 
 <!-- THE END -->
-
-<!--
-**Antho57/Antho57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
