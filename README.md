@@ -8,13 +8,13 @@
 
 ## <img src="https://img.icons8.com/emoji/344/memo-emoji.png" width="30px">  Qui suis-je ?
 
-Étudiant en informatique à la Faculté des Sciences et Technologies de Nancy. <br/>
-Diplomé d'une Licence en informatique et d'un DUT Informatique (IUT Nancy-Charlemagne), actuellement en première année de Master informatique. 
+Étudiant en Master 2 Informatique orientation Ingénierie Logicielle à la Faculté des Sciences et Technologies de Nancy. <br/>
+Diplomé d'une Licence en informatique et d'un DUT Informatique (IUT Nancy-Charlemagne). 
 **Développeur web full stack**.
 
 - **Projet en cours** : Développement back office full stack pour [Proprio Access](https://proprio-access.fr/)
 - **Centres d'intérêts** : Formule 1, Football, Gymnastique
-- **Langages favoris** : PHP, JavaScript, Java
+- **Technologies favories** : VueJS, Nuxt, Laravel
 - **Collaborateurs** : [Anthony](https://github.com/Antho57), [Remi](https://github.com/RemRem57), [Nicolas](https://github.com/Nicolas-Frache)
 
 </br>
