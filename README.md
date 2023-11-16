@@ -10,7 +10,7 @@
 
 Étudiant en Master 2 Informatique orientation Ingénierie Logicielle à la Faculté des Sciences et Technologies de Nancy. <br/>
 Diplomé d'une Licence en informatique et d'un DUT Informatique (IUT Nancy-Charlemagne). 
-**Développeur web full stack**.
+**Développeur web**.
 
 - **Projet en cours** : Développement back office full stack pour [Proprio Access](https://proprio-access.fr/)
 - **Centres d'intérêts** : Formule 1, Football, Gymnastique
